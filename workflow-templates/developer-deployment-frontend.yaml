@@ -1,4 +1,4 @@
-name: Dev deployment of backend application
+name: Dev deployment of frontend application
 on:
   push:
     branches:

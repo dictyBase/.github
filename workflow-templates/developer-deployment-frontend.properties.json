@@ -1,0 +1,12 @@
+{
+    "name": "Dev deployment of frontend",
+    "description": "Developer branch deployment of frontend application",
+    "iconName": "javascript",
+    "categories": [
+        "React",
+	"Javascript"
+    ],
+    "filePatterns": [
+        "package.json$"
+    ]
+}
