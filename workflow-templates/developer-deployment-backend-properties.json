@@ -1,0 +1,11 @@
+{
+    "name": "Dev deployment of backend",
+    "description": "Developer branch deployment of backend application",
+    "iconName": "go",
+    "categories": [
+        "go"
+    ],
+    "filePatterns": [
+        "go.mod$"
+    ]
+}
