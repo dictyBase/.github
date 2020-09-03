@@ -1,0 +1,5 @@
+{
+    "name": "Create Pull Request",
+    "description": "Creates a pull request when a new branch is created",
+    "iconName": "github"
+}
